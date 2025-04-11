@@ -1,0 +1,14 @@
+PROPRIETARY LICENSE - All Rights Reserved
+
+Copyright (c) 2025 Emmanuel Tool
+
+This software and its content (including but not limited to code, visual design, text messages, audio, and concept) is the exclusive property of Emmanuel Tool.
+
+You may not:
+- Copy, modify, distribute, or sell any part of this software or its contents;
+- Use this software or its concept to create derivative works;
+- Share, sublicense, or host this software publicly without written permission.
+
+Any unauthorized use is strictly prohibited and may result in legal action.
+
+For commercial licenses, partnership inquiries, or custom terms, please contact: [ton@email.com]
